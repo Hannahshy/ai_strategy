@@ -2,7 +2,7 @@
 
 ## 🚀 在线演示
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Hannahshy/pwc_ai_strategy/main/ai_maturity_dashboard.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Hannahshy/ai_strategy/main/ai_maturity_dashboard.py)
 
 > **提示**：点击上方链接直接体验完整的交互式看板，或按照下方说明在本地运行。
 
