@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(streamlit run *)",
+      "Bash(curl -s http://localhost:8500)",
+      "Bash(curl -s http://localhost:8501)",
+      "Bash(git init *)",
+      "Bash(git branch *)",
+      "Bash(git add *)"
+    ]
+  }
+}

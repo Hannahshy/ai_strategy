@@ -1,0 +1,2772 @@
+{
+  "ENT-027": {
+    "company_name": "企业BB",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.34
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.34
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.78
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.59
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.76
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.27
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.27
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.02
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-048": {
+    "company_name": "企业BW",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.34
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.34
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.78
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.96
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.07
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.2
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.91
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.47
+        }
+      ]
+    }
+  },
+  "ENT-028": {
+    "company_name": "企业BC",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.26
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.26
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.72
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.68
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.94
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.57
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.34
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.07
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-037": {
+    "company_name": "企业BL",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.14
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.14
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.62
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.51
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.96
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.69
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.6
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-023": {
+    "company_name": "企业AX",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.14
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.14
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.62
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.62
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.04
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.95
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.69
+        }
+      ]
+    }
+  },
+  "ENT-014": {
+    "company_name": "企业AO",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.08
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.08
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.57
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.64
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.07
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.85
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.51
+        }
+      ]
+    }
+  },
+  "ENT-005": {
+    "company_name": "企业AF",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.0
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.0
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.5
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.91
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.88
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.53
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.47
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.22
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-020": {
+    "company_name": "企业AU",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.0
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.0
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.5
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 2.04
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.83
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.06
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.63
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.3
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-042": {
+    "company_name": "企业BQ",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 3.0
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 3.0
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.5
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.78
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.88
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.56
+        }
+      ]
+    }
+  },
+  "ENT-003": {
+    "company_name": "企业AD",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.94
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.94
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.45
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 2.27
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.68
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.55
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.13
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-049": {
+    "company_name": "企业BX",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.94
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.94
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.45
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 2.13
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.4
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.13
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.4
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.6
+        }
+      ]
+    }
+  },
+  "ENT-025": {
+    "company_name": "企业AZ",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.8
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.8
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.33
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.79
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.43
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.14
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.07
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.91
+        }
+      ]
+    }
+  },
+  "ENT-015": {
+    "company_name": "企业AP",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.74
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.74
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 2.38
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.28
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 2.08
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.34
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.9
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.52
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-033": {
+    "company_name": "企业BH",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.6
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.6
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.17
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.91
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.64
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.84
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.53
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.22
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-010": {
+    "company_name": "企业AK",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 2.04
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.94
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.27
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.63
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.57
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.3
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.55
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.7
+        }
+      ]
+    }
+  },
+  "ENT-029": {
+    "company_name": "企业BD",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.54
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.54
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.12
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.0
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.9
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.25
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.5
+        }
+      ]
+    }
+  },
+  "ENT-006": {
+    "company_name": "企业AG",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 2.17
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.44
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.23
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.98
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.5
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.73
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.67
+        }
+      ]
+    }
+  },
+  "ENT-046": {
+    "company_name": "企业BU",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.71
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.23
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.37
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.1
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.1
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.5
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.96
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.67
+        }
+      ]
+    }
+  },
+  "ENT-012": {
+    "company_name": "企业AM",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.48
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.48
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.07
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.64
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.84
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.93
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.65
+        }
+      ]
+    }
+  },
+  "ENT-016": {
+    "company_name": "企业AQ",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.48
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.48
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.07
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.66
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.74
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.33
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.23
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.06
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-019": {
+    "company_name": "企业AT",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.83
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.9
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.17
+        },
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.06
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.5
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.44
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.63
+        }
+      ]
+    }
+  },
+  "ENT-017": {
+    "company_name": "企业AR",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.4
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.4
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 2.0
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.55
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.84
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.4
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.24
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 0.99
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-047": {
+    "company_name": "企业BV",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.34
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.34
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 1.95
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.0
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.1
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.25
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.95
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.5
+        }
+      ]
+    }
+  },
+  "ENT-024": {
+    "company_name": "企业AY",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 2.34
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 2.34
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 1.95
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.9
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.04
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.5
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.3
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.53
+        }
+      ]
+    }
+  },
+  "ENT-040": {
+    "company_name": "企业BO",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.84
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.78
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 2.0
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.47
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.18
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.25
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.5
+        }
+      ]
+    }
+  },
+  "ENT-008": {
+    "company_name": "企业AI",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.96
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.59
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.2
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.27
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.02
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.8
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.2
+        }
+      ]
+    }
+  },
+  "ENT-021": {
+    "company_name": "企业AV",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.75
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.96
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.95
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.4
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.12
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.19
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.46
+        }
+      ]
+    }
+  },
+  "ENT-036": {
+    "company_name": "企业BK",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.87
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.78
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.1
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.2
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 2.13
+        }
+      ]
+    }
+  },
+  "ENT-043": {
+    "company_name": "企业BR",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.87
+        },
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.84
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.1
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.83
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.47
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.18
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.06
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.37
+        }
+      ]
+    }
+  },
+  "ENT-018": {
+    "company_name": "企业AS",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.87
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.8
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.1
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.34
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.8
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.2
+        }
+      ]
+    }
+  },
+  "ENT-022": {
+    "company_name": "企业AW",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.84
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.87
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.4
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.1
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 2.1
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.96
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.4
+        }
+      ]
+    }
+  },
+  "ENT-038": {
+    "company_name": "企业BM",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.83
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.76
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 2.06
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.27
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.05
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.87
+        }
+      ]
+    }
+  },
+  "ENT-026": {
+    "company_name": "企业BA",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.96
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.8
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.57
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.33
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.26
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.9
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.6
+        }
+      ]
+    }
+  },
+  "ENT-034": {
+    "company_name": "企业BI",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.38
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.66
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.73
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.1
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.1
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 0.88
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.95
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.3
+        }
+      ]
+    }
+  },
+  "ENT-032": {
+    "company_name": "企业BG",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.82
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.73
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.37
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.88
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.95
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.56
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.3
+        }
+      ]
+    }
+  },
+  "ENT-035": {
+    "company_name": "企业BJ",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.43
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.74
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.69
+        },
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.24
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.9
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.27
+        }
+      ]
+    }
+  },
+  "ENT-044": {
+    "company_name": "企业BS",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.8
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.69
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.33
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.95
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.9
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.69
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.27
+        }
+      ]
+    }
+  },
+  "ENT-007": {
+    "company_name": "企业AH",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.92
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.69
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.53
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.05
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.9
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.87
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.27
+        }
+      ]
+    }
+  },
+  "ENT-039": {
+    "company_name": "企业BN",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.42
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.66
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.14
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.1
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 1.05
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 0.91
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.87
+        }
+      ]
+    }
+  },
+  "ENT-001": {
+    "company_name": "企业AB",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.62
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.76
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.65
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.27
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.04
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.86
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.24
+        }
+      ]
+    }
+  },
+  "ENT-011": {
+    "company_name": "企业AL",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 1.08
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.8
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.8
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.95
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.69
+        }
+      ]
+    }
+  },
+  "ENT-045": {
+    "company_name": "企业BT",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.62
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.78
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.56
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.04
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.76
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.17
+        }
+      ]
+    }
+  },
+  "ENT-004": {
+    "company_name": "企业AE",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.55
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.8
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.74
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.34
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.88
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.56
+        }
+      ]
+    }
+  },
+  "ENT-041": {
+    "company_name": "企业BP",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 1.74
+        },
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 1.74
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.47
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 1.45
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.66
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.65
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.1
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-030": {
+    "company_name": "企业BE",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.68
+        },
+        {
+          "initiative": "AI人才引进计划",
+          "dimension": "人才与组织",
+          "duration": "4个月",
+          "priority_score": 1.43
+        },
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.88
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "全员AI素养培训",
+          "dimension": "人才与组织",
+          "duration": "3个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.47
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.34
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.07
+        }
+      ],
+      "优化期(12-18月)": []
+    }
+  },
+  "ENT-000": {
+    "company_name": "企业AA",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.68
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.47
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 1.13
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.9
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.65
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.6
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.1
+        }
+      ]
+    }
+  },
+  "ENT-002": {
+    "company_name": "企业AC",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 1.59
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 1.27
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.07
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 1.02
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.52
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.2
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 0.93
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 0.8
+        }
+      ]
+    }
+  },
+  "ENT-009": {
+    "company_name": "企业AJ",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "数据质量治理项目",
+          "dimension": "数据基础",
+          "duration": "6个月",
+          "priority_score": 0.79
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 1.16
+        },
+        {
+          "initiative": "数据开放与共享机制",
+          "dimension": "数据基础",
+          "duration": "4个月",
+          "priority_score": 0.63
+        },
+        {
+          "initiative": "搭建数据中台",
+          "dimension": "数据基础",
+          "duration": "9个月",
+          "priority_score": 0.5
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.25
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.3
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 0.87
+        },
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 0.44
+        }
+      ]
+    }
+  },
+  "ENT-031": {
+    "company_name": "企业BF",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "云基础设施升级",
+          "dimension": "技术能力",
+          "duration": "8个月",
+          "priority_score": 0.52
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 0.97
+        },
+        {
+          "initiative": "部署MLOps平台",
+          "dimension": "技术能力",
+          "duration": "6个月",
+          "priority_score": 0.86
+        },
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.73
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 1.29
+        },
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 1.1
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 0.73
+        }
+      ]
+    }
+  },
+  "ENT-013": {
+    "company_name": "企业AN",
+    "phases": {
+      "基础期(0-6月)": [
+        {
+          "initiative": "制定AI战略白皮书",
+          "dimension": "战略与愿景",
+          "duration": "3个月",
+          "priority_score": 0.0
+        },
+        {
+          "initiative": "AI场景快速验证",
+          "dimension": "战略与愿景",
+          "duration": "2个月",
+          "priority_score": 0.0
+        },
+        {
+          "initiative": "成立AI卓越中心(CoE)",
+          "dimension": "战略与愿景",
+          "duration": "4个月",
+          "priority_score": 0.0
+        }
+      ],
+      "建设期(6-12月)": [
+        {
+          "initiative": "数据驱动文化变革",
+          "dimension": "文化与创新",
+          "duration": "8个月",
+          "priority_score": 0.32
+        },
+        {
+          "initiative": "建立AI治理框架",
+          "dimension": "治理与伦理",
+          "duration": "4个月",
+          "priority_score": 0.31
+        }
+      ],
+      "优化期(12-18月)": [
+        {
+          "initiative": "AI创新孵化器",
+          "dimension": "文化与创新",
+          "duration": "5个月",
+          "priority_score": 0.57
+        },
+        {
+          "initiative": "AI伦理审查委员会",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 0.34
+        },
+        {
+          "initiative": "AI风险评估体系",
+          "dimension": "治理与伦理",
+          "duration": "3个月",
+          "priority_score": 0.23
+        }
+      ]
+    }
+  }
+}
