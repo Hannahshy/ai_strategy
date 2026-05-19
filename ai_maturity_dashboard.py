@@ -365,7 +365,7 @@ def render_company_detail_section(data):
     st.dataframe(
         details_df.style
         .highlight_between(subset=['差距'], left=1.0, right=5.0, color='lightcoral')
-        .applymap(lambda x: 'font-weight: bold' if x.startswith('⚠️') else '', subset=['状态']),
+        .map(lambda x: 'font-weight: bold' if isinstance(x, str) and x.startswith('⚠️') else '', subset=['状态']),
         use_container_width=True
     )
 
@@ -477,7 +477,7 @@ def render_priority_matrix_section(data):
     st.dataframe(
         top_recs_display.style
         .background_gradient(subset=['priority_score'], cmap='YlOrRd')
-        .applymap(lambda x: 'font-weight: bold' if isinstance(x, str) and '🔥' in x else '',
+        .map(lambda x: 'font-weight: bold' if isinstance(x, str) and '🔥' in x else '',
                  subset=['优先级评分']),
         use_container_width=True
     )
