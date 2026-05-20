@@ -2,9 +2,12 @@
 
 ## 🚀 在线演示
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Hannahshy/ai_strategy/main/ai_maturity_dashboard.py)
-https://aistrategy-gw4uqp9a9rs88xf8p8en5a.streamlit.app/
-> **提示**：点击上方链接直接体验完整的交互式看板，或按照下方说明在本地运行。
+
+
+https://github.com/user-attachments/assets/4f80bdbd-69f2-4307-be80-ada3556641d5
+
+
+> **提示**：直接观看完整的交互式看板效果，或按照下方说明在本地运行。
 
 ---
 
